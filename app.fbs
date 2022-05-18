@@ -1,0 +1,8 @@
+namespace app;
+
+table App
+{
+    value: ubyte;
+}
+
+root_type App;
